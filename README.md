@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Ibrahima Ben Mady Kebe, informatique appliquée et gestion des opérations" width="100%">
 
-<a href="https://github.com/TON-UTILISATEUR"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=1A5276&center=true&vCenter=true&width=640&lines=Informatique+appliqu%C3%A9e+%C3%97+Gestion+des+op%C3%A9rations;R%C3%A9seaux+Cisco+%C2%B7+Support+TI;Donn%C3%A9es+%C2%B7+Coordination+%C2%B7+Op%C3%A9rations;Bilingue+FR+%2F+EN" alt="Titres animés"></a>
+<a href="https://github.com/Ibrahima-Ben-Mady-Kebe"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=1A5276&center=true&vCenter=true&width=640&lines=Informatique+appliqu%C3%A9e+%C3%97+Gestion+des+op%C3%A9rations;R%C3%A9seaux+Cisco+%C2%B7+Support+TI;Donn%C3%A9es+%C2%B7+Coordination+%C2%B7+Op%C3%A9rations;Bilingue+FR+%2F+EN" alt="Titres animés"></a>
 <!-- À REMPLACER : mets ton nom d'utilisateur GitHub à la place de TON-UTILISATEUR dans le lien ci-dessus -->
 
 <br>
